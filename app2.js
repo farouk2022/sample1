@@ -1,2 +1,2 @@
 console.log ("Hello World!")
-cnosole.log ("Update the Page")
+console.log ("Update the Page")
